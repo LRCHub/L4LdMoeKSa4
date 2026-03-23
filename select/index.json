@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Montagem Nada Tropica",
+  "base_artist": "Eternxlkz",
+  "createdAt": "2026-03-23T23:37:55.911052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Montagem Nada Tropica",
+      "artist": "Eternxlkz",
+      "has_synced": true,
+      "path": "select/01_Montagem_Nada_Tropica_Eternxlkz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Montagem Nada Tropica (Over Slowed + Reverb)",
+      "artist": "Eternxlkz",
+      "has_synced": true,
+      "path": "select/02_Montagem_Nada_Tropica_(Over_Slowed_+_Reverb)_Eternxlkz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eternxlkz - Montagem Nada Tropica (Official Audio)",
+      "artist": "Eternxlkz",
+      "has_synced": true,
+      "path": "select/03_Eternxlkz_-_Montagem_Nada_Tropica_(Official_Audio)_Eternxlkz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Montagem Nada Tropica (中文字幕)",
+      "artist": "Eternxlkz",
+      "has_synced": true,
+      "path": "select/04_Montagem_Nada_Tropica_(中文字幕)_Eternxlkz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Montagem Nada Tropica (Over Slowed   Reverb)",
+      "artist": "Eternxlkz",
+      "has_synced": true,
+      "path": "select/05_Montagem_Nada_Tropica_(Over_Slowed_Reverb)_Eternxlkz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Montagem Nada Tropica",
+      "artist": "Song, Eternxlkz",
+      "has_synced": true,
+      "path": "select/06_Montagem_Nada_Tropica_Song,_Eternxlkz.lrc"
+    }
+  ]
+}
